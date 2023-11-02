@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @FabiRochaa
 - 👀 I’m interested in learnings
-- 🌱 I’m currently learning ADS and english 
+- 🌱 I’m currently learning Analysis and Systems Development/English language
+
 - 💞️ I’m looking to collaborate on learnings
 - 📫 How to reach me fabirocha7dev@gmail.com
 
