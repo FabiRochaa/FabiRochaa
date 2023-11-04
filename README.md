@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @FabiRochaa
-- 👀 I’m interested in learnings
+- 👋 Hi, I’m @fabirocha7dev
+-  👀 I’m interested in learnings
 - 🌱 I’m currently learning Analysis and Systems Development/English language
 
 - 💞️ I’m looking to collaborate on learnings
